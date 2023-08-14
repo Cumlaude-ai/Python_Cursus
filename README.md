@@ -1,5 +1,8 @@
 # Python Cursus Jupyter Notebook: Gegevensverwerking en Visualisatie met Pandas en Matplotlib
 
+![Course Image](images/afbeelding_2023-08-14_111753019.png)
+
+
 Welkom bij de Python-cursus voor gegevensverwerking en visualisatie met Pandas en Matplotlib! In dit interactieve Jupyter Notebook nemen we je mee op een boeiende reis om je vertrouwd te maken met essentiële concepten van programmeren in Python, gegevensverwerking met Pandas, en gegevensvisualisatie met Matplotlib. Dit vierdaagse programma is ontworpen om je stapsgewijs door de cursusdagen te leiden, waarbij elke dag is opgedeeld in specifieke hoofdstukken voor theorie, oefeningen en antwoorden.
 
 ## Dag 1: Introductie tot Python - Basisprincipes en Datatypes
